@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.github.kkhanhluu</groupId>
+	<groupId>io.github.kkhanhluu</groupId>
 	<artifactId>mssc-beer-bom</artifactId>
 	<version>1.0</version>
 
